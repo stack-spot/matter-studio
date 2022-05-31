@@ -1,0 +1,67 @@
+name: matter-studio
+displayName: Studio Matter
+picture: "pictures/studioDark.jpg"
+company: ZUP
+about: Stacks que provêm confiança e velocidade no seu desenvolvimento
+technologies:
+  [
+    "Web",
+    "React",
+    "Citric",
+    "NextJS",
+    "TypeScript",
+    "JavaScript",
+    "Express",
+    "Beagle",
+    "Microfrontend",
+  ]
+whoWeAre: |
+  O estúdio Matter nasceu com a missão de ajudar desenvolvedores a entregar software com inteligência, velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
+  Somos desenvolvedores apaixonados por tecnologia, estamos sempre buscando inovar em nossas soluções, utilizando as melhores práticas de desenvolvimento sempre focando nos nossos valores: Inteligência, velocidade e confiança.
+  Utilizamos a tecnologia da StackSpot para lançar as nossas stacks.
+
+creators:
+  - displayName: Arthur Fernandes Ribeiro
+    jobRole: Software Engineer
+    profileURL: "https://github.com/arthurribeirozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/48961051?v=4"
+
+  - displayName: Jamesson Miranda da Penha
+    jobRole: Software Engineer
+    profileURL: "https://github.com/jamessonpenhazup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/65912159?v=4"
+
+  - displayName: Lucas Carvalho Gondim
+    jobRole: Tech Lead
+    profileURL: "https://github.com/lucasgondim"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/687407?v=4"
+
+  - displayName: Magno Cardoso Lemos
+    jobRole: Software Engineer
+    profileURL: "https://github.com/magnolemoszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/81317865?v=4"
+
+  - displayName: Renan Carlos Rodrigues
+    jobRole: Software Engineer
+    profileURL: "https://github.com/renanrodrigueszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/66091812?v=4"
+
+  - displayName: Caroline Barcelos Gonçalves
+    jobRole: Software Engineer
+    profileURL: "https://github.com/carolinegoncalveszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/47392346?v=4"
+
+  - displayName: Lourenço de Oliveira Rizzotto
+    jobRole: Software Engineer
+    profileURL: "https://github.com/lourenco"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/501616?v=4"
+
+stacks:
+  - location: "https://github.com/stack-spot/matter-web-react"
