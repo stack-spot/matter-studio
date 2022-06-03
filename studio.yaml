@@ -2,19 +2,8 @@ name: matter-studio
 displayName: Studio Matter
 picture: "pictures/studioDark.jpg"
 company: StackSpot
-about: Stacks que provêm confiança e velocidade no seu desenvolvimento
-technologies:
-  [
-    "Web",
-    "React",
-    "Citric",
-    "NextJS",
-    "TypeScript",
-    "JavaScript",
-    "Express",
-    "Beagle",
-    "Microfrontend",
-  ]
+about: Stacks que facilitam e padronizam o desenvolvimento Web
+technologies: ["Web", "React", "Citric", "Microfrontend"]
 whoWeAre: |
   O estúdio Matter nasceu com a missão de ajudar desenvolvedores a entregar software com inteligência, velocidade e confiança, para que o negócio consiga entregar mais funcionalidades para seus clientes.
   Somos desenvolvedores apaixonados por tecnologia, estamos sempre buscando inovar em nossas soluções, utilizando as melhores práticas de desenvolvimento sempre focando nos nossos valores: Inteligência, velocidade e confiança.
